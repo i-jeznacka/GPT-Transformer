@@ -4,4 +4,6 @@ Project for Deep Neural Networks course completed during 5th semester of Bachelo
 A modular implementation of a modern decoder-only transformer block based on the GPT-OSS-20B architecture. 
 Features custom implementations of Weighted Grouped Query Attention (GQA), Sliding Window Attention (SWA), Mixture of Experts (MoE) with sparse routing, SwiGLU feed-forward networks, and Rotary Positional Embeddings (RoPE).
 
+Task specification and template for the code were provided by the university.
+
 Technologies: Python, PyTorch, NumPy, Matplotlib
